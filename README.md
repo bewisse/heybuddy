@@ -9,10 +9,14 @@
   </a>
   <a href="https://bewisse.com/heybuddy/">
 
-    Hey Buddy Official Website
+    Hey Buddy official website
 
   </a>
 </h3>
+
+## Stats
+
+<a href="https://chrome-stats.com/d/aollofiafbblhopkofbfmlmbhbdcblem">Hey Buddy stats</a>
 
 ## Features
 
